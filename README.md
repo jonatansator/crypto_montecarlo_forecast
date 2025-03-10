@@ -8,10 +8,10 @@
 ## Files
 - `crypto_forecast.py`: Main script for fetching data, running simulations, and generating visualizations.
 - No external dataset required; data is fetched live from Binance via `ccxt`.
-- `btc.png`: Visualization of Bitcoin (BTC) price forecast - Color: `#FF9900`
-- `eth.png`: Visualization of Ethereum (ETH) price forecast - Color: `#00B7EB`
-- `sol.png`: Visualization of Solana (SOL) price forecast - Color: `#00FFAA`
-- `bnb.png`: Visualization of Binance Coin (BNB) price forecast - Color: `#FFD700`
+- `btc.png`: Visualization of Bitcoin (BTC) price forecast
+- `eth.png`: Visualization of Ethereum (ETH) price forecast
+- `sol.png`: Visualization of Solana (SOL) price forecast
+- `bnb.png`: Visualization of Binance Coin (BNB) price forecast
 
 ---
 
